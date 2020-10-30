@@ -11,7 +11,7 @@
         <img src="justin.jpg">
         <img src="jordi.jpg">
         <br>
-        <a href="https://www.youtube.com/watch?v=gWlLX17OG_s">This is a Link</a>
+        <a href="https://www.youtube.com/watch?v=gWlLX17OG_s">My Favourite Link Jub Jub!!</a>
 
         <h2>นิทานก่อนนอนสอนใจ เรื่อง ทำไมมดถึงกัดเราเจ็บยิ่งนัก</h2>
         <p>มดมันกัดเพื่อป้องกันตัว และพวกพ้อง ด้วยการมองเห็นของมดที่จำกัดนั้น</p>
